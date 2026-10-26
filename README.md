@@ -43,7 +43,7 @@ The repository includes Task 1 and Task 2, with separate notebooks, project docu
 - Jupyter Notebook: `Task_1.ipynb`
 - Documentation: `Task-1/README.md`
 
-[➡️ View Task 1 Folder](./Task-1/)
+
 
 ### 🔹 Task 2 – Housing Price Prediction
 
@@ -70,7 +70,7 @@ The repository includes Task 1 and Task 2, with separate notebooks, project docu
 - Jupyter Notebook: `Task_2_Housing_Price_Prediction.ipynb`
 - Documentation: `Task-2/README.md`
 
-[➡️ View Task 2 Folder](./Task-2/)
+
 
 ---
 
